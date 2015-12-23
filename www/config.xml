@@ -31,11 +31,11 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
-   
+   <gap:plugin name="org.apache.cordova.battery-status" />
 
  
     <!-- Pushwoosh plugin -->
-    <gap:plugin name="pushwoosh-pgb-plugin" source="npm" />
+   
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
