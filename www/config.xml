@@ -13,7 +13,7 @@
     </author>
 
     <!-- Customize your app and platform with the preference element. -->
-	<preference name="phonegap-version"           value="3.7.0"/>
+	<preference name="phonegap-version"           value="cli-5.1.1"/>
 	<preference name="android-build-tool"         value="gradle" />
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
@@ -55,7 +55,8 @@
 
  
     <!-- Pushwoosh plugin -->
-	
+	<!-- Pushwoosh plugin -->
+    <gap:plugin name="pushwoosh-pgb-plugin" source="npm" />
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
