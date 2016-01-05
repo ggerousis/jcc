@@ -3,13 +3,13 @@
 		xmlns:gap="http://phonegap.com/ns/1.0" 
 		id="jcc.ps.app" 
 		version="2.0.0">
-  <name>JCC</name>
+  <name>CJC</name>
     <description>
-        JCC Palestine
+        CJC Palestine
     </description>
 
     <author href="http://www.jcc.ps" email="">
-        JCC
+        CJC
     </author>
 
     <!-- Customize your app and platform with the preference element. -->
